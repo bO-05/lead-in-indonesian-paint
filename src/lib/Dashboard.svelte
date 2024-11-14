@@ -638,12 +638,22 @@
     background-color: #f5f7fa;
     margin: 0;
     padding: 0;
+    color: #1f2937;
   }
 
-  .dashboard {
-    width: 100%;
-    margin: 0 auto;
+  :global(h1), :global(h2), :global(h3), :global(p), :global(td), :global(th) {
+    color: #1f2937 !important;
   }
+
+  td, th {
+    text-align: left;
+    padding: 1rem;
+    color: #1f2937 !important;
+  }
+
+  .text-red-700 { color: #b91c1c !important; }
+  .text-orange-700 { color: #c2410c !important; }
+  .text-green-700 { color: #15803d !important; }
 
   .stat-item {
     display: flex;
