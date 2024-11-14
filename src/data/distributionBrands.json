@@ -1,0 +1,487 @@
+[
+    {
+        "No.": 1,
+        "Brand Name": "4 Seasons",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": "< 60"
+    },
+    {
+        "No.": 2,
+        "Brand Name": "500 Plus Paints",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 660,
+        "Maximum Lead Content (ppm)": 660
+    },
+    {
+        "No.": 3,
+        "Brand Name": "ABC",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": "< 60"
+    },
+    {
+        "No.": 4,
+        "Brand Name": "Altex",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 2,
+        "Minimum Lead Content (ppm)": "< 70",
+        "Maximum Lead Content (ppm)": 47000
+    },
+    {
+        "No.": 5,
+        "Brand Name": "Artic",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 18000,
+        "Maximum Lead Content (ppm)": 18000
+    },
+    {
+        "No.": 6,
+        "Brand Name": "ASRI",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 3,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 70",
+        "Maximum Lead Content (ppm)": "< 70"
+    },
+    {
+        "No.": 7,
+        "Brand Name": "Avian",
+        "No. of Samples": 5,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 4,
+        "No. of Samples >10,000 ppm": 4,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 110000
+    },
+    {
+        "No.": 8,
+        "Brand Name": "Bee Brand",
+        "No. of Samples": 4,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 3,
+        "No. of Samples >10,000 ppm": 3,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 42000
+    },
+    {
+        "No.": 9,
+        "Brand Name": "Belmont",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 2,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 70,
+        "Maximum Lead Content (ppm)": 70
+    },
+    {
+        "No.": 10,
+        "Brand Name": "Bintang Laut",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 340,
+        "Maximum Lead Content (ppm)": 8400
+    },
+    {
+        "No.": 11,
+        "Brand Name": "Bitalac",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 42000,
+        "Maximum Lead Content (ppm)": 42000
+    },
+    {
+        "No.": 12,
+        "Brand Name": "Boxer Paint",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 170,
+        "Maximum Lead Content (ppm)": 170
+    },
+    {
+        "No.": 13,
+        "Brand Name": "Cendrawasih",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 31000,
+        "Maximum Lead Content (ppm)": 31000
+    },
+    {
+        "No.": 14,
+        "Brand Name": "Danalac",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 5800,
+        "Maximum Lead Content (ppm)": 87000
+    },
+    {
+        "No.": 15,
+        "Brand Name": "Davies",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 3700
+    },
+    {
+        "No.": 16,
+        "Brand Name": "Decolux",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 1400,
+        "Maximum Lead Content (ppm)": 1400
+    },
+    {
+        "No.": 17,
+        "Brand Name": "Diton",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 67000,
+        "Maximum Lead Content (ppm)": 67000
+    },
+    {
+        "No.": 18,
+        "Brand Name": "Drasso",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 7500,
+        "Maximum Lead Content (ppm)": 67000
+    },
+    {
+        "No.": 19,
+        "Brand Name": "Diton Spray Paint",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 67000,
+        "Maximum Lead Content (ppm)": 67000
+    },
+    {
+        "No.": 20,
+        "Brand Name": "Dulux V Gloss",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 2,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": "< 70"
+    },
+    {
+        "No.": 21,
+        "Brand Name": "Duplex",
+        "No. of Samples": 1,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 1,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 33000,
+        "Maximum Lead Content (ppm)": 33000
+    },
+    {
+        "No.": 22,
+        "Brand Name": "Emco Lux",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 3,
+        "No. of Samples >10,000 ppm": 3,
+        "Minimum Lead Content (ppm)": 46000,
+        "Maximum Lead Content (ppm)": 140000
+    },
+    {
+        "No.": 23,
+        "Brand Name": "Envi",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 3,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 70",
+        "Maximum Lead Content (ppm)": 80
+    },
+    {
+        "No.": 24,
+        "Brand Name": "Falcon Supergloss",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 3200,
+        "Maximum Lead Content (ppm)": 3700
+    },
+    {
+        "No.": 25,
+        "Brand Name": "Figo",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 6500,
+        "Maximum Lead Content (ppm)": 6700
+    },
+    {
+        "No.": 26,
+        "Brand Name": "Ftalit",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 2,
+        "Minimum Lead Content (ppm)": 24000,
+        "Maximum Lead Content (ppm)": 150000
+    },
+    {
+        "No.": 27,
+        "Brand Name": "Galalux",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 3,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 110,
+        "Maximum Lead Content (ppm)": 42000
+    },
+    {
+        "No.": 28,
+        "Brand Name": "Gamalex",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 2,
+        "No. of Samples >10,000 ppm": 1,
+        "Minimum Lead Content (ppm)": 1400,
+        "Maximum Lead Content (ppm)": 24000
+    },
+    {
+        "No.": 29,
+        "Brand Name": "Gardex",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 2,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": "< 60"
+    },
+        {
+        "No." : 30, "Brand Name" : "Garuda","No. of Samples" : 2,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 2,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : 380,"Maximum Lead Content (ppm)" : "14,000"},
+        {
+        "No." : 31, "Brand Name" : "Gendang","No. of Samples" : 3,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 3,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "1,300","Maximum Lead Content (ppm)" : "72,000"},
+        {
+        "No." : 32, "Brand Name" : "Glo-Tex","No. of Samples" : 2,"No. of Samples <90 ppm" : 2,"No. of Samples >90 ppm" : 0,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "< 60","Maximum Lead Content (ppm)" : "< 60"},
+                {
+        "No." : 33, "Brand Name" : "Glovin","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "870","Maximum Lead Content (ppm)" : "870"},
+{
+        "No." : 34, "Brand Name" : "Kansai","No. of Samples" : 1,"No. of Samples <90 ppm" : 1,"No. of Samples >90 ppm" : 0,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "70","Maximum Lead Content (ppm)" : "70"},
+{
+        "No." : 35, "Brand Name" : "Kuda Terbang","No. of Samples" : 3,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 3,"No. of Samples >10,000 ppm" : 2,"Minimum Lead Content ppm" : "5,600","Maximum Lead Content (ppm)" : "64,000"},
+{
+        "No." : 36, "Brand Name" : "Laba-Laba","No. of Samples" : 1,"No. of Samples <90 ppm" : 1,"No. of Samples >90 ppm" : 0,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "< 60", "Maximum Lead Content (ppm)" : "< 60"},
+{
+        "No." : 37, "Brand Name" : "Lippo","No. of Samples" : 2,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 2,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "2,000","Maximum Lead Content (ppm)" : "16,000"},
+{
+        "No." : 38, "Brand Name" : "Luna","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "78,000","Maximum Lead Content (ppm)" : "78,000"},
+{
+        "No." : 39, "Brand Name" : "Masterlac","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "220","Maximum Lead Content (ppm)" : "220"},
+{
+        "No." : 40, "Brand Name" : "Mazlex","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "58,000", "Maximum Lead Content (ppm)" : "58,000"},
+{
+        "No." : 41, "Brand Name" : "Mowilex","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "140,000","Maximum Lead Content (ppm)" : "140,000"},
+{
+        "No." : 42, "Brand Name" : "Nippe 2000","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "86,000","Maximum Lead Content (ppm)" : "86,000"},
+{
+        "No." : 43, "Brand Name" : "Nippon Paint","No. of Samples" : 5,"No. of Samples <90 ppm" : 3,"No. of Samples >90 ppm" : 2,"No. of Samples >10,000 ppm" : 2, "Minimum Lead Content ppm" : "<60","Maximum Lead Content (ppm)" : "66,000"},
+{
+        "No." : 44, "Brand Name" : "Nippon Pylox", "No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "47,000", "Maximum Lead Content (ppm)" : "47,000"},
+{
+        "No." : 45, "Brand Name" : "Orchid","No. of Samples" : 1,"No. of Samples <90 ppm" : 0, "No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "490","Maximum Lead Content (ppm)" : "490"},
+{
+        "No." : 46, "Brand Name" : "Penlux","No. of Samples" : 2,"No. of Samples <90 ppm" : 1,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "80","Maximum Lead Content (ppm)" : "63,000"},
+{
+        "No." : 47, "Brand Name" : "Picolux","No. of Samples" : 2,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 2,"No. of Samples >10,000 ppm" : 0,"Minimum Lead Content ppm" : "3,100","Maximum Lead Content (ppm)" : "9,400"},
+
+{
+"No.": 48,
+"Brand Name": "Pioneer",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 1,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": "< 70",
+"Maximum Lead Content (ppm)": 32000
+},
+{
+"No.": 49,
+"Brand Name": "Polibest",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 2600,
+"Maximum Lead Content (ppm)": 33000
+},
+{
+"No.": 50,
+"Brand Name": "Primatan",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 8900,
+"Maximum Lead Content (ppm)": 12000
+},
+{
+"No.": 51,
+"Brand Name": "Primtop",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 65000,
+"Maximum Lead Content (ppm)": 65000
+},
+{
+"No.": 52,
+"Brand Name": "Property Glozz",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 48000,
+"Maximum Lead Content (ppm)": 48000
+},
+{
+"No.": 53,
+"Brand Name": "Puffin",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 12000,
+"Maximum Lead Content (ppm)": 12000
+},
+{
+"No.": 54,
+"Brand Name": "Recolac",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 7700,
+"Maximum Lead Content (ppm)": 7700
+},
+{
+"No.": 55,
+"Brand Name": "RJ London",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 1900,
+"Maximum Lead Content (ppm)": 2500
+},
+{
+"No.": 56,
+"Brand Name": "Romatex",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 5600,
+"Maximum Lead Content (ppm)": 5600
+},
+{
+"No.": 57,
+"Brand Name": "Seiv",
+"No. of Samples": 3,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 3,
+"No. of Samples >10,000 ppm": 2,
+"Minimum Lead Content ppm": 4100,
+"Maximum Lead Content (ppm)": 69000
+},
+{
+"No.": 58,
+"Brand Name": "Sendai",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 1500,
+"Maximum Lead Content (ppm)": 2300
+},
+{
+"No.": 59,
+"Brand Name": "Simarine",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 1100,
+"Maximum Lead Content (ppm)": 1400
+},
+{
+"No.": 60,
+"Brand Name": "Synthetic 2000",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 1,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 53000,
+"Maximum Lead Content (ppm)": 53000
+},
+{
+"No.": 61,
+"Brand Name": "Tractor Enamel",
+"No. of Samples": 1,
+"No. of Samples <90 ppm": 1,
+"No. of Samples >90 ppm": 0,
+"No. of Samples >10,000 ppm": 0,
+"Minimum Lead Content ppm": 90,
+"Maximum Lead Content (ppm)": 90
+},
+{
+"No.": 62,
+"Brand Name": "Vim",
+"No. of Samples": 2,
+"No. of Samples <90 ppm": 0,
+"No. of Samples >90 ppm": 2,
+"No. of Samples >10,000 ppm": 1,
+"Minimum Lead Content ppm": 9000,
+"Maximum Lead Content (ppm)": 12000
+},
+{
+"No." : 63, "Brand Name" : "Weldon WiiGloss","No. of Samples" : 3,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 3,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "670","Maximum Lead Content (ppm)" : "1,700"},
+{
+"No." : 64, "Brand Name" : "Wita","No. of Samples" : 2,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 2,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "4,400", "Maximum Lead Content (ppm)" : "55,000"},
+{
+"No." : 65, "Brand Name" : "Yoko","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "16,000","Maximum Lead Content (ppm)" : "16,000"},
+{
+"No." : 66, "Brand Name" : "Zinctium","No. of Samples" : 1,"No. of Samples <90 ppm" : 0,"No. of Samples >90 ppm" : 1,"No. of Samples >10,000 ppm" : 1,"Minimum Lead Content ppm" : "12,000","Maximum Lead Content (ppm)" : "12,000"}
+]

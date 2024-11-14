@@ -1,0 +1,58 @@
+[
+    {
+        "No": 1,
+        "Company Name": "PT Rajawali Hiyoto",
+        "Response Date": "9-Aug-2021",
+        "Response": "Clarification and had a zoom call",
+        "PIC": "Sammy Felisario - R & D Manager",
+        "Statement": "In the process of reformulation for lead-free paint production"
+    },
+    {
+        "No": 2,
+        "Company Name": "PT Mataram Paint",
+        "Response Date": "12-Aug-2021",
+        "Response": "Responded to the results",
+        "PIC": "Freddy Pangkey - Owner",
+        "Statement": "In the process of reformulation for lead-free paint production"
+    },
+    {
+        "No": 3,
+        "Company Name": "PT Sigma Utama",
+        "Response Date": "13-Aug-2021",
+        "Response": "Responded to the results and filled out the form regarding lead usage in their products",
+        "PIC": "Diana Nur - R & D",
+        "Statement": "In the process of reformulation for lead-free paint production"
+    },
+    {
+        "No": 4,
+        "Company Name": "PT Mowilex Indonesia",
+        "Response Date": "26-Aug-2021",
+        "Response": "Responded to results via email and a letter of commitment to produce lead-free paint; filled out the form regarding lead usage in their production, and had a zoom call with Mowilex's top management",
+        "PIC": "Niko Savafi - President Director",
+        "Statement": "Mowilex has produced lead-free paint and launched a take back program and campaign #mowilexpastiman"
+    },
+    {
+        "No": 5,
+        "Company Name": "PT TOA Paint Indonesia",
+        "Response Date": "27-Aug-2021",
+        "Response": "Responded to the results and asked for clarification about their results <60ppm",
+        "PIC": "Nikodemus Joko - Product Marketing",
+        "Statement": "TOA paint results was <60ppm because their product is water-based and tinting paints.\nIf there is a stipulation from the government that the maximum Pb in solvent-based paint is 90 mg/kg, then we will follow that rule. We, as a member of APCI, have coordinated this matter with APCI"
+    },
+    {
+        "No": 6,
+        "Company Name": "PT Dana Paint",
+        "Response Date": "6-Sep-2021",
+        "Response": "Reply to the results via email and letter",
+        "PIC": "Maria Yudi - GM Technical",
+        "Statement": ""
+    },
+    {
+        "No": 7,
+        "Company Name": "PT Futanlux Chemitraco",
+        "Response Date": "14-Sep-2021",
+        "Response": "Replied to the results via email, and filled out the form for the use of lead in the product",
+        "PIC": "Jovianto Tjo - Managing Director",
+        "Statement": "Currently in the process of replacing the drier and pigment"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "No.": 1,
+        "Colour": "Yellow",
+        "No. of Samples": 44,
+        "No. of Samples <90 ppm": 13,
+        "No. of Samples >90 ppm": 31,
+        "No. of Samples >10,000 ppm": 24,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 250000,
+        "The most dangerous colours": "55%"
+    },
+    {
+        "No.": 2,
+        "Colour": "Orange",
+        "No. of Samples": 11,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 10,
+        "No. of Samples >10,000 ppm": 10,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 86000,
+        "The most dangerous colours": "91%"
+    },
+    {
+        "No.": 3,
+        "Colour": "Red",
+        "No. of Samples": 47,
+        "No. of Samples <90 ppm": 14,
+        "No. of Samples >90 ppm": 33,
+        "No. of Samples >10,000 ppm": 9,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 46000,
+        "The most dangerous colours": "19%"
+    },
+    {
+        "No.": 4,
+        "Colour": "Green",
+        "No. of Samples": 7,
+        "No. of Samples <90 ppm": 2,
+        "No. of Samples >90 ppm": 5,
+        "No. of Samples >10,000 ppm": 4,
+        "Minimum Lead Content (ppm)": "< 70",
+        "Maximum Lead Content (ppm)": 100000,
+        "The most dangerous colours": "57%"
+    },
+    {
+        "No.": 5,
+        "Colour": "Blue",
+        "No. of Samples": 3,
+        "No. of Samples <90 ppm": 0,
+        "No. of Samples >90 ppm": 3,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": 340,
+        "Maximum Lead Content (ppm)": 3200,
+        "The most dangerous colours": "0%"
+    },
+    {
+        "No.": 6,
+        "Colour": "White",
+        "No. of Samples": 6,
+        "No. of Samples <90 ppm": 1,
+        "No. of Samples >90 ppm": 5,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 3100,
+        "The most dangerous colours": "0%"
+    },
+    {
+        "No.": 7,
+        "Colour": "Grey",
+        "No. of Samples": 2,
+        "No. of Samples <90 ppm": 2,
+        "No. of Samples >90 ppm": 0,
+        "No. of Samples >10,000 ppm": 0,
+        "Minimum Lead Content (ppm)": "< 60",
+        "Maximum Lead Content (ppm)": 70,
+        "The most dangerous colours": "0%"
+    }
+]
