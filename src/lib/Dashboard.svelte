@@ -327,6 +327,12 @@
           All credit goes to the original authors and researchers. I made this for future reference when buying paint.
         </p>
       </div>
+      <a href="https://github.com/bO-05/lead-in-indonesian-paint" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         class="text-xs text-gray-600 hover:text-gray-900 mb-2 block">
+        View Source on GitHub
+      </a>
       <p>Original Research:</p>
       <p><strong>"Lead in Solvent-Based Paints in Indonesia 2021"</strong></p>
       <p>DOI: <a href="https://doi.org/10.13140/RG.2.2.17539.02081" 
