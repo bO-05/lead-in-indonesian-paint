@@ -41,3 +41,5 @@ dist-ssr
 .temp
 .tmp
 .cache
+
+.specstory/

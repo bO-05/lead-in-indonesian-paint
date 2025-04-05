@@ -1,4 +1,4 @@
-# Indonesian Paint Lead Content Analysis - 2021
+# [CekCat](https://cekcat.vercel.app/) - Indonesian Paint Lead Content Analysis - 2021
 
 A simple data visualization site for personal reference when buying paint in Indonesia. This site visualizes data from the research paper "Lead in Solvent-Based Paints in Indonesia 2021".
 
@@ -22,3 +22,7 @@ I take no credit for the research, data collection, or findings. All credit goes
 - Svelte
 - Chart.js
 - TailwindCSS
+
+## Links:
+- Github: [https://github.com/bO-05/lead-in-indonesian-paint](https://github.com/bO-05/lead-in-indonesian-paint)
+- Website: [https://cekcat.vercel.app/](https://cekcat.vercel.app/)
